@@ -1,0 +1,8 @@
+Oxygen_Mask OM KL_Medical 1 3.000000
+Surgical_Mask SM Patani 1 10.000000
+Contactless_Thermometer CT KPJ_Ampang 1 1.000000
+Face_Mask FM Gleneagles 1 0.400000
+Face_Mask FM Gleneagles 4 43.000000
+Oxygen_Mask OM Penang 1 2.300000
+Personal_equipment PCE KL_Medics 3 0.900000
+Oxygen_Mask OM KL_hospital 1 1.000000
